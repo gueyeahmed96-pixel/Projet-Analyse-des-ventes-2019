@@ -56,5 +56,3 @@ L'analyse a révélé plusieurs informations stratégiques :
 *   **IDE :** Jupyter Notebook (via VS Code)
 
 ---
-
-![Dashboard Interactif](![alt text](<Dashboard interacitf.gif>))
